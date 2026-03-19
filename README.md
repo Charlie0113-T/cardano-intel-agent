@@ -23,4 +23,4 @@
 - `archive/`: 历史情报简报存放处。
 
 ## ✍️ 关于作者
-**Charles Tao** - Stonepark Intermediate 8年级学生，Cardano 开发者，正在构建 **EchoForgeDAO**。
+**Charles Tao** - Stonepark Intermediate 8年级学生，Cardano 开发者，正在构建 **EchoForge**。
