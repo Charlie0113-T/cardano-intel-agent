@@ -1,5 +1,7 @@
 .venv/
 .env
 __pycache__/
-*.txt
-*.md
+
+# Generated intelligence briefings (keep README.md / README.en.md tracked)
+archive/
+Cardano_Report_*.md
